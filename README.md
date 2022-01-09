@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## Hello I'm Hufei Li! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 <a href="https://twitter.com/ajaykhalsa_ak">
   <img align="left" alt="Ajay's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -23,13 +23,13 @@
 <br />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
-### I am Ajay Singh Khalsa
-- An ML & Open Source enthusiast.
-- A Computer Engineering Undergraduate Student. 
-- Currently working on some of my cool side projects based on Web Development and Machine Learning.
-- I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
+### I am Hufei Li 👋
+- 🔭 I’m currently a master student on Peking University, majoring in Integrated Circuit
+- 🌱 I’m currently learning Integrated Circuit, Artificial Intelligence, Model Compression.
+- 🤔 I’m looking for help with everything(Because I'm really a rookie)
+- ⚡ You can get in touch with me by email at 491323081@qq.com
 
-⭐️ From [AjayKhalsa](https://github.com/AjayKhalsa)
+⭐️ From [Ranking666](https://github.com/Ranking666)
 
 
 <!--
