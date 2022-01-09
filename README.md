@@ -1,4 +1,4 @@
-## Hello I'm Hufei Li! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## Hello Everyone! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 <a href="https://twitter.com/ajaykhalsa_ak">
   <img align="left" alt="Ajay's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -27,8 +27,11 @@
 - 🤔 I’m looking for help with everything(Because I'm really a rookie)
 - ⚡ You can get in touch with me by email at 491323081@qq.com
 
-⭐️ From [Ranking666](https://github.com/Ranking666)
+✨ | :octocat:
+------------ | -------------
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ranking666&show_icons=true&hide_border=true)| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ranking666)
 
+⭐️ From [Ranking666](https://github.com/Ranking666)
 
 <!--
 **Ranking666/Ranking666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
