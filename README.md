@@ -1,23 +1,20 @@
 ## Hello Everyone! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-<a href="https://twitter.com/ajaykhalsa_ak">
+<a href="https://twitter.com/lihufei3">
   <img align="left" alt="Ajay's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/ajay-singh-khalsa/">
-  <img align="left" alt="Ajay's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/AjayKhalsa">
+<a href="https://github.com/Ranking666">
   <img align="left" alt="Ajay's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://t.me/AjayKhalsa">
-  <img align="left" alt="Ajay's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+<a href="https://blog.csdn.net/weixin_42638415?spm=1000.2115.3001.5343" target="_blank" alt="CSDN" title="CSDN">
+    <img src="https://img.icons8.com/material/48/000000/csdn.png" width="30px"/>
 </a>
-<a href="https://www.hackerrank.com/ajaykhalsa_ak">
-  <img align="left" alt="Ajay's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+<a href="https://www.zhihu.com/people/shi-qing-cheng-yuan" target="_blank" alt="Zhihu" title="Zhihu">
+    <img src="https://img.icons8.com/material-two-tone/50/000000/zhihu.png" width="28px"/>
 </a>
-<a href="https://www.kaggle.com/ajaykhalsa">
-  <img align="left" alt="Ajay's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
-</a>
+<a href="https://space.bilibili.com/533691216" target="_blank" alt="Bilibili" title="Bilibili">
+    <img src="https://user-images.githubusercontent.com/29084184/129467562-a754907c-c128-40d0-80ad-86e89bdda3d6.png" width="30px"/>
+</a> 
 <br />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
@@ -46,4 +43,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
