@@ -22,10 +22,10 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 ### I am Hufei Li 👋
-- 🔭 I’m currently a master student on Peking University, majoring in Integrated Circuit
-- 🌱 I’m currently learning Integrated Circuit, Artificial Intelligence, Model Compression.
-- 🤔 I’m looking for help with everything(Because I'm really a rookie)
-- ⚡ You can get in touch with me by email at 491323081@qq.com
+- 🔭 I’m currently a master student on Peking University, majoring in Integrated Circuit <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="25"> 
+- 🌱 I’m currently learning Integrated Circuit, Artificial Intelligence, Model Compression.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+- 🤔 I’m looking for help with everything(Because I'm really a rookie):sob:
+- ⚡ You can get in touch with me by email at 491323081@qq.com :sunglasses:
 
 ✨ | :octocat:
 ------------ | -------------
