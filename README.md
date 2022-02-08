@@ -15,8 +15,6 @@
 <a href="https://space.bilibili.com/533691216" target="_blank" alt="Bilibili" title="Bilibili">
     <img src="https://user-images.githubusercontent.com/29084184/129467562-a754907c-c128-40d0-80ad-86e89bdda3d6.png" width="30px"/>
 </a> 
-<br />
-<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="240" height="135" />
 
 ### I am Hufei Li 👋
 - 🔭 I’m currently a master student on Peking University, majoring in Integrated Circuit <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="25"> 
