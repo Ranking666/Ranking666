@@ -1,4 +1,4 @@
-## Hello Everyone! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## Hello Everyone!
 
 <a href="https://twitter.com/lihufei3" target="_blank" alt="Twitter" title="Twitter">
     <img src="https://img.icons8.com/ios-glyphs/30/000000/twitter--v1.png" width="30px"/>
